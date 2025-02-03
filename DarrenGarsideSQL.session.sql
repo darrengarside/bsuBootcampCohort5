@@ -1,0 +1,1 @@
+SELECT * FROM clients where city="Waco" LIMIT 10;
